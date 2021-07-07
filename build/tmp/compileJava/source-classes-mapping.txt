@@ -1,0 +1,18 @@
+utest/tasks/SingUp.java
+ utest.tasks.SingUp
+utest/userinterface/uTestPage.java
+ utest.userinterface.uTestPage
+utest/userinterface/WriteFormPage.java
+ utest.userinterface.WriteFormPage
+utest/userinterface/SingUpPage.java
+ utest.userinterface.SingUpPage
+utest/tasks/OpenUp.java
+ utest.tasks.OpenUp
+utest/userinterface/CompleteRegister.java
+ utest.userinterface.CompleteRegister
+utest/model/DataPage.java
+ utest.model.DataPage
+utest/questions/Answer.java
+ utest.questions.Answer
+utest/tasks/WriteForm.java
+ utest.tasks.WriteForm

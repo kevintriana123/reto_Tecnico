@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Sing Up" skipped="0" tests="1" time="10.51" timestamp="2021-07-06 10:33:16"><testcase name="Successful sing up"><error message="No such field utest.model.DataPage.strMonthN" type="cucumber.runtime.CucumberException">No such field utest.model.DataPage.strMonthN</error><system-err>No such field utest.model.DataPage.strMonthN&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
